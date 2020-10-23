@@ -1,4 +1,4 @@
-# Demo Repsoitory
+# Demo Repository
 
 Some text
 
